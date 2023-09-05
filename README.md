@@ -1,8 +1,8 @@
+<div align="center">
 <a name="readme-top" id="readme-top"></a>
 
 <!-- PROJECT ICON -->
 <br />
-<div align="center">
   <p>
     <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
   </p>
@@ -14,15 +14,11 @@
     <br />
     <br />    
   </p>
-</div>
-
 
 <br />
 
 ![Product Name Screen Shot][product-screenshot]
 
-
-<p align="right"><a href="#readme-top"><b>[BACK TO TOP] &#8593;</b></a></p>
 <br><br>
 <div>
 <a href="https://www.linkedin.com/in/chalestristian/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"></a>
@@ -31,3 +27,5 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: readme_img/screenshot.png
+
+</div>
