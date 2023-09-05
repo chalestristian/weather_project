@@ -4,10 +4,10 @@
 <!-- PROJECT ICON -->
 <br />
   <p>
-    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme_img/flutter.png" alt="Logo" width="80" height="80">
   </p>
 
-  <h2 align="center">APP PREVISÃO DO TEMPO</h2>
+  <h2 align="center">APP PREVISÃO DO TEMPO</h2> 
 
   <p align="center">
   Esse foi o meu primeiro contato com Flutter através do Bootcamp DIO. Após aprender a configurar o ambiente de desenvolvimento, foi feito o desafio de uma entrega simples apenas com o intuito de superar o primeiro contato com o framework.
